@@ -1,0 +1,68 @@
+/* Practice qs */
+#outer {
+  height: 200px;
+  width: 70px;
+  border: 2px solid black;
+  margin: 50px;
+}
+
+.red,
+.yellow,
+.green {
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  margin: 10px;
+  border-radius: 50%;
+}
+.red {
+  background-color: red;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+
+#big {
+  height: 400px;
+  width: 400px;
+  background-color: aquamarine;
+  margin: 50px;
+}
+
+#small {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  margin-left: 10%;
+}
+
+#big-em {
+  height: 400px;
+  width: 400px;
+  background-color: rgb(27, 192, 137);
+  font-size: 10px;
+  margin: 50px;
+}
+
+#small-em {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(165, 42, 93);
+  font-size: 3em;
+  padding: 1em;
+}
+
+/* here padding = size of the font-size 
+30px */
+
+.click {
+  font-size: 50px;
+  border-radius: 15px;
+  background-color: aquamarine;
+  border: 2px solid rgb(5, 71, 71);
+  padding-left: 1em;
+  padding-right: 1em;
+}

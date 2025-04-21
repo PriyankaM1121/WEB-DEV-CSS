@@ -1,0 +1,12 @@
+div {
+  background-color: yellowgreen;
+}
+
+/* Buttons and input are not inherit from parent elements so you have to give as below if you want to inherit from parents property */
+
+input {
+  background-color: inherit;
+}
+button {
+  background-color: inherit;
+}

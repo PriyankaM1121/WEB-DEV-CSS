@@ -1,0 +1,70 @@
+/* This code is for Parctice que */
+/* h2 {
+  color: orange;
+}
+
+button {
+  background-color: blue;
+  color: white;
+}
+
+p {
+  background-color: black;
+  color: white;
+} */
+
+/* Thor.html */
+
+/* h1 {
+  text-align: center;
+  color: red;
+} */
+
+/* Practice que css*/
+/* h1 {
+  font-family: League spartan;
+  color: #ffa511;
+  text-align: center;
+  font-size: 55px;
+  font-weight: 900;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-decoration: teal double underline;
+} */
+
+/* assignment css-1 poem*/
+p {
+  color: #a52a2a;
+  line-height: 30px;
+}
+
+h1,
+h3,
+h4,
+p {
+  text-align: center;
+}
+
+h3 {
+  color: black;
+}
+h1 {
+  color: red;
+}
+body {
+  font-family: Georgia;
+}
+a {
+  color: green;
+  text-decoration: none;
+}
+button {
+  background-color: white;
+  color: blueviolet;
+}
+textarea {
+  color: #000;
+}
+span {
+  text-decoration: underline;
+}
